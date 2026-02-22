@@ -1,0 +1,9 @@
+[package]
+name = "twisted-rs"
+version = "0.1.0"
+edition = "2024"
+description = "A twisted text editor"
+repository = "https://github.com/realglebivanov/twisted-rs"
+license = "MIT"
+
+[dependencies]
